@@ -1,0 +1,46 @@
+body{
+
+    background-image: url(https://t4.ftcdn.net/jpg/02/57/71/11/360_F_257711170_YhDyNeF8tra1UEzm5DaBmYdPM0NRtlBH.jpg);
+    background-size: cover;
+    margin-top: 100px;
+}
+#playerinput1 , #playerinput2{
+
+    border-radius: 30px;
+   width: 350px;
+   height: 50px;
+
+}
+
+#log-in{
+
+    border-radius: 30px;
+   width: 350px;
+   height: 50px;
+   background-color:#fc0356;
+
+}
+
+.login-input{
+
+    box-sizing: border-box;
+    padding-left: 50px;
+    width: 50%;
+    height: 55px;
+    border: 2px solid black;
+    background-color: white;
+   background-size: 40px 40px;
+    background-image: url("https://cdn3.iconfinder.com/data/icons/general-icons-set-1/100/13_profile-512.png");
+    background-repeat: no-repeat;
+    background-position: 3% 10%;
+}
+
+#warning{
+	color: red;
+}
+#output{
+
+    background-color: white;
+    border-radius: 10;
+    border-color: black;
+}
